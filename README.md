@@ -4,9 +4,15 @@
 
 ## 使用方法
 
+克隆到本地或者直接下载压缩包
+
+```
+git clone https://github.com/RaidriarB/BUPTAutoCheckBot.git
+```
+
 首先需要打开`autoUpdate.py`文件，修改几处参数
 
-首先将用户名和密码修改一下
+将用户名和密码修改一下
 
 ```
 USERNAME = "xxxxxxxxx"
