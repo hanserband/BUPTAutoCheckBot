@@ -97,7 +97,7 @@ def final_update():
         if "今天已经填报了" in retstr:
             print_msg("确认填报完成。\n")
             return True
-        elif "填报成功" in retstr:
+        elif "操作成功" in retstr:
             print_msg("填报成功，随后进行确认\n")
             return True
         else:
